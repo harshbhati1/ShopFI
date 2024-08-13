@@ -27,11 +27,19 @@ The app is tailored for small and medium-sized shop owners who handle their own 
 
 ## Usage Instructions
 
-1. **Create an Account:** Download the app and create your own account.
-2. **Demo Account:** Alternatively, you can use the demo account credentials:
-   - **Email:** xyz@gmail.com
-   - **Password:** 1234567
+1. **Download the App:**
+   - Obtain the `app-release.apk` file from the provided link above.
+   - Install the APK on your Android device.
+
+2. **Create an Account:**
+   - Open the app and follow the on-screen instructions to create your own account.
+
+3. **Demo Account:**
+   - Alternatively, you can use the demo account credentials to explore the app:
+     - **Email:** xyz@gmail.com
+     - **Password:** 1234567
 
 ## Additional Information
 
-The idea for Shofi originated from my personal experience working at my father's shop. I observed how manual record-keeping led to losses due to forgotten customer dues. Inspired by this, I developed Shofi at the age of 18, leveraging my knowledge in computer science and app development gained through learning Flutter, Firebase, and state management with Riverpod. Future plans include implementing customer confirmation for log edits, OTP verification,
+The idea for Shofi originated from my personal experience working at my father's shop. I observed how manual record-keeping led to losses due to forgotten customer dues. Inspired by this, I developed Shofi at the age of 18, leveraging my knowledge in computer science and app development gained through learning Flutter, Firebase, and state management with Riverpod. Future plans include implementing customer confirmation for log edits, OTP verification, and integrated payment methods.
+
